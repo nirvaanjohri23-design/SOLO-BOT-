@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Nether-X.aternos.me
-",
+    "ip": "Nether-X.aternos.me",
     "port": 13092,
     "version": "1.20.1",
     "try-creative": false
