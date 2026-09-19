@@ -23,7 +23,7 @@
       "password": "SoloPlayz"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
     "chat-messages": {
