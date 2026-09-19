@@ -40,18 +40,18 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "false": true,
+    "enabled": false,
     "circle-walk": {
-      "false": false,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
     "look-around": {
-      "false": true,
+      "enabled false": true,
       "interval": 5000
     },
     "random-jump": {
-      "false": false,
+      "enabled": false,
       "interval": 10000
     }
   },
